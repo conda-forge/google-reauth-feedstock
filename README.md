@@ -5,11 +5,9 @@ Home: https://pypi.org/project/google-reauth/
 
 Package license: Apache-2.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/google-reauth-feedstock/blob/master/LICENSE.txt)
 
 Summary: Google Reauth Library
-
-
 
 Current build status
 ====================

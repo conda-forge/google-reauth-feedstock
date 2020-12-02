@@ -1,5 +1,5 @@
 {% set name = "google-reauth" %}
-{% set version = "0.1.0" %}
+{% set version = "0.1.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 417de75917d1fb538cb145ba6d44ae8725ff6d632e528fd9dd9c77cbaec67157
+  sha256: f9f6852a55c2c5453d581cd01f3d1278e86147c03d008409800390a834235892
 
 build:
   number: 0
